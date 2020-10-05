@@ -195,3 +195,19 @@
   195  cd terminal-git-practice
   196  ls
   197  code solutions.md
+  198  history
+  199  ls
+  200  git status
+  201  git add solutions.md
+  202  git status
+  203  git commit -m "added commands from making ga folder"
+  204  git push origin solutions
+  205  cd ..
+  206  ls
+  207  cd ga
+  208  ls
+  209  mkdir project1 project2 project3 project4
+  210  ls
+  211  cd ..
+  212  ls
+  213  cd terminal-git-practice
